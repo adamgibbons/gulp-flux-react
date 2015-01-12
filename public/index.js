@@ -1,3 +1,3 @@
 var React = require('react');
 
-React.render(<p>hello world!</p>, document.body);
+React.render(<h1>hello world!</h1>, document.getElementById('app'));
